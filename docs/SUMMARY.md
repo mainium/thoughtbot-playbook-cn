@@ -36,7 +36,7 @@
     - [代码审查](chapter-6-developing/code-reviews.md)
     - [持续集成](chapter-6-developing/continuous-integration.md)
     - [结对编程](chapter-6-developing/pair-programming.md)
-* [重构](chapter-6-developing/refactoring.md)/
+    - [重构](chapter-6-developing/refactoring.md)
     - [代码风格](chapter-6-developing/style-guide.md)
     - [测试驱动开发](chapter-6-developing/test-driven-development.md)
     - [版本管理](chapter-6-developing/version-control.md)
