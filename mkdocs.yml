@@ -3,8 +3,8 @@ copyright: ©Mainium 2021
 repo_url: https://github.com/mainium/playbook-cn/
 
 theme: 
-  name: 'simplex'
-  custom_dir: '_theme/mkdocs_bootswatch/simplex'
+  name: 'united'
+  custom_dir: '_theme/mkdocs_bootswatch/united'
 
 nav:
     - '中文版序': README.md
