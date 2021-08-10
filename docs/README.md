@@ -1,10 +1,11 @@
 # Playbook 中文版序
 
-事情要从beansmile说起。
+事情要从 [beansmile](http://www.beansmile.com/) 说起。
 
 2010年的时候，两个Ruby粉Leon和Rain走到了一起，创建了一个叫做[beansmile](http://www.beansmile.com/) 的团队。7年过去了，他们变成了下图中的模样：
 
-![alt](http://beantalk.net/static/upload/201610/S8XRUkrMmvzk1BhEZFamBzRY.jpg)
+
+![beansmile](https://ipic.zoomquiet.top/2021-08-10-beansmile.png)
 
 在这几年里，我们和小伙伴们为北美、欧洲和澳洲的客户完成了电商、社交、媒体、数据可视化、移动App等上百个项目，近两年也开始和国内的一些优秀的创业者们一起合作，共同打造有价值的产品。
 
